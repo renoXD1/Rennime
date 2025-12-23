@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Kaelnime",
+  title: "Rennime",
   description: "Web Streaming Anime Sub Indo",
   icons: {
     icon: [
